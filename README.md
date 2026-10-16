@@ -4,7 +4,7 @@ A frontend learning path webpage built with HTML5 and CSS3 to showcase essential
 
 ## 🌐 Live Demo
 
-[View Live Website](PASTE_YOUR_NETLIFY_URL_HERE)
+[View Live Website](https://v-ramyasree11.github.io/frontend-developer-learning-path/)
 
 ## 📌 Project Overview
 
